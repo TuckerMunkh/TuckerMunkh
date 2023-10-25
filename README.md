@@ -1,5 +1,5 @@
 # Hi there, I'm Tucker Munkhtsooj 👋
-4924433.png
+![My Profile Image](https://github.com/TuckerMunkh/TuckerMunkh/blob/main/4924433.png)
 
 ## About Me
 
@@ -20,6 +20,7 @@ I'm a software developer with a strong passion for Robotic Process Automation (R
 - 🌐 Proficient in C#, React, Python, and Selenium for software development.
 - 🖥️ Experienced in AS/400 IBM i Series terminal automation.
 - 🎓 Automation Anywhere Certified Essentials RPA Professional.
+- 🎓 AWS Training in process.
 
 ## 📈 Showcasing Skills
 
